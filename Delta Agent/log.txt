@@ -1,0 +1,15 @@
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\hello.bat
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\hello.bat
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\hello.bat
+FILE DELETED: C:\Users\zazak\Desktop\Új mappa\hello.bat
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\hello.py
+FILE RUN: C:\Users\zazak\Desktop\Új mappa\hello.py (returncode=0)
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\test.py
+FILE RUN: C:\Users\zazak\Desktop\Új mappa\test.py (returncode=0)
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\hello.bat
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\guess.bat
+FILE RUN: C:\Users\zazak\Desktop\Új mappa\guess.bat (returncode=1)
+FILE CREATED: C:\Users\zazak\Desktop\Új mappa\clicker.html
+FILE DELETED: C:\Users\zazak\Desktop\Új mappa\clicker.html
+FILE DELETED: C:\Users\zazak\Desktop\Új mappa\guess.bat
+FOLDER DELETED: C:\Users\zazak\py\Delta Agent\abad
